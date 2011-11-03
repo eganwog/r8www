@@ -2,6 +2,8 @@
 <html>
   <head>
 <link rel="stylesheet" type="text/css" href="index.css" media="all">
+
+
 <?php
   // error_reporting(E_ALL);
   require_once('../sql.php');
