@@ -4,6 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Robotron</title>
   </head>
+  <link rel="stylesheet" type="text/css" href="index.css">
 <body>
   <h1>Robotron</h1>
 <?php
