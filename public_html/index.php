@@ -91,7 +91,6 @@
   });
    </script>
   </head>
-  <link rel="stylesheet" type="text/css" href="index.css">
 <body>
   <h1>Robotron</h1>
 <?php
